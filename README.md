@@ -1,9 +1,11 @@
 File Compressor
 ===
+
 Overview
+==
 The File Compressor is a Python-based application with a graphical user interface (GUI) built using tkinter. 
 It allows users to easily compress files into zip archives and decompress zip files into specified directories.
-====
+
 Features
 ==
 File Compression: Select a file and compress it into a .zip archive.
